@@ -1,6 +1,6 @@
 extends CharacterBody3D
 
-#testing git
+
 # Player node refs
 @onready var neck = $Neck
 @onready var head = $Neck/Head
